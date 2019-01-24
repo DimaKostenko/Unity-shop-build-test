@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Shop_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 54
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 8be7081b9be1dd5439287424c7737598, type: 3}
+    - {fileID: 102900000, guid: 9e4ce850556963f43aa03a3f1dddcb99, type: 3}
+    - {fileID: 102900000, guid: d73706d4efc0d6c428b90462f48d6306, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7a3141327a99b604c81230b8ca319c54, type: 3}
+  - {fileID: 21300000, guid: 088210c29e818754aaada07d80ae63b3, type: 3}
+  - {fileID: 21300000, guid: fc69dc230d220e74087ffa0c02435ba7, type: 3}
+  - {fileID: 21300000, guid: c095b343d93187a438d2387ec38a568d, type: 3}
+  - {fileID: 21300000, guid: 4b03e355abd3baf44bafefccc76328ab, type: 3}
+  - {fileID: 21300000, guid: 794fd2950a7283e41ab0ff44e8b6ecbc, type: 3}
+  - {fileID: 21300000, guid: af6ab9b5cda78e742b5dba67014f5f29, type: 3}
+  - {fileID: 21300000, guid: 2e8122661c17d764b8924e11af1033e7, type: 3}
+  - {fileID: 21300000, guid: ba5083385a9c7764d8a4a3e751e62598, type: 3}
+  - {fileID: 21300000, guid: e61cefd93727ae6489701fa8bbfcf7b3, type: 3}
+  - {fileID: 21300000, guid: c7eb880a1c066ec4fb1d2c1e0ec9cc9d, type: 3}
+  - {fileID: 21300000, guid: 3797f03a8372f924199ef642e55ea319, type: 3}
+  - {fileID: 21300000, guid: 801dc63a8986d964c86963204a6ef910, type: 3}
+  - {fileID: 21300000, guid: 555c1c7a5695cc04c80e7a60c43127b1, type: 3}
+  - {fileID: 21300000, guid: 57789a7b4be412c4eaba26bd8a6fee7e, type: 3}
+  - {fileID: 21300000, guid: 57a117ecf570d86469f780455f4b97a6, type: 3}
+  - {fileID: 21300000, guid: ffc436fd95f097048bd8ee51509f53ee, type: 3}
+  - {fileID: 21300000, guid: fc569c4e5fe8e5846aa7d932ac5cf8cc, type: 3}
+  - {fileID: 21300000, guid: c4d9928fd1c9fc348b637f7dafc2481e, type: 3}
+  - {fileID: 21300000, guid: de89c0df50b4893479a009c6b59b1c73, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Best_deal_icon
+  - Coin_ stack_3
+  - Coin_ stack_6
+  - Most_popular_icon
+  - Most_popular_text
+  - Buy_coins
+  - Coin_ stack_4
+  - Stroke_bar
+  - Coin_ stack_2
+  - Coin_ stack_7
+  - bank_coin
+  - Close
+  - BG_window
+  - Best_deal_text
+  - Coin_ stack_1
+  - price_shape_orange
+  - price_shape
+  - Coin_ stack_5
+  - bank_bar
+  - Coin_ stack_8
+  m_Tag: Shop_atlas
+  m_IsVariant: 0
