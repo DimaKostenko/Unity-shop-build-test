@@ -20,4 +20,4 @@ public class ShopButtonsScript : MonoBehaviour {
 		anim.Play ("Coin_shop_close");
 	}
 }
-//Add test stroke
+//Stroke changed
