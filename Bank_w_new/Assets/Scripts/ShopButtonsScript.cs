@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-//Add new stroke
+//Add new another stroke 1
 public class ShopButtonsScript : MonoBehaviour {
 
 	public GameObject canvasObj;
