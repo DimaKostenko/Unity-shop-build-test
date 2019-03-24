@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -20,4 +20,5 @@ public class ShopButtonsScript : MonoBehaviour {
 		anim.Play ("Coin_shop_close");
 	}
 }
-//Stroke changed
+//Add 1
+//Add 2
