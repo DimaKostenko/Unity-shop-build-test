@@ -20,5 +20,4 @@ public class ShopButtonsScript : MonoBehaviour {
 		anim.Play ("Coin_shop_close");
 	}
 }
-//Add 1
-//Add 2
+//Delete 1, 2.
