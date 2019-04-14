@@ -17,3 +17,6 @@ public class SpineboyAnimController : MonoBehaviour {
 		skeletonAnimation.AnimationState.SetAnimation (0, "gun toss", true);
 	}
 }
+
+
+///sacasdwqdqwd
