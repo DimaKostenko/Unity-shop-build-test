@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Spine.Unity;
@@ -17,6 +17,5 @@ public class SpineboyAnimController : MonoBehaviour {
 		skeletonAnimation.AnimationState.SetAnimation (0, "gun toss", true);
 	}
 }
-
-
-///sacasdwqdqwd
+//dsaqwefef7
+//dsfewfwef23f
